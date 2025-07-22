@@ -37,14 +37,66 @@ http://54.242.4.59:8080/"
 ### Now we need to create an account on Jenkins
 <img width="754" height="389" alt="Screenshot 2025-07-22 at 11 31 19 am" src="https://github.com/user-attachments/assets/7cfb2a7a-298c-463b-93ab-39bcc0243086" />
 
-Go to source management console
+### Go to Dashboard creat a new user name click on freestle project and click ok
 
+<img width="754" height="389" alt="Screenshot 2025-07-22 at 11 32 45 am" src="https://github.com/user-attachments/assets/acd3a74c-05f7-4507-9c6e-1d5d225ea1ee" />
+
+Go to source management console
 
 <img width="754" height="389" alt="Screenshot 2025-07-22 at 2 19 47 pm" src="https://github.com/user-attachments/assets/8824b435-8e6d-4ad9-b9de-26ab68ea6b74" />
 
-
-
 <img width="754" height="389" alt="Screenshot 2025-07-22 at 12 06 35 pm" src="https://github.com/user-attachments/assets/a59b41b5-73b6-4ab0-b2f7-508b03f55597" />
+
+
+### next step is to build
+
+
+<img width="737" height="360" alt="Screenshot 2025-07-22 at 12 08 24 pm" src="https://github.com/user-attachments/assets/4c76cd11-3251-4ef5-a002-45b443fa8b77" />
+
+### click credential and change the masters to main
+
+
+<img width="754" height="389" alt="Screenshot 2025-07-22 at 2 47 30 pm" src="https://github.com/user-attachments/assets/4f8ecb11-be0a-4dd1-ba15-f2d86637fb7c" />
+
+
+### put your user name and password
+<img width="1087" height="740" alt="Screenshot 2025-07-22 at 2 31 22 pm" src="https://github.com/user-attachments/assets/3f2a41e5-3c1c-4d7f-a10f-6309cc885c7a" />
+
+### get your personal access token 
+
+<img width="1199" height="550" alt="Screenshot 2025-07-22 at 2 27 59 pm" src="https://github.com/user-attachments/assets/2351a36c-c5d9-4cf5-a4b1-9957e2cd7e19" />
+
+chnage in file in github repository
+
+
+
+
+after the access token you can now build 
+
+<img width="737" height="360" alt="Screenshot 2025-07-22 at 12 08 24 pm" src="https://github.com/user-attachments/assets/fd7183c3-4a65-4eb6-9e30-6e1ab68b85ec" />
+
+
+
+### Build
+<img width="1427" height="611" alt="Screenshot 2025-07-22 at 4 09 27 pm" src="https://github.com/user-attachments/assets/d9286e93-9a8c-4b72-8f1c-7e99b8cdbb2e" />
+
+Configure Jenkins Job to Trigger Build from GitHub
+
+
+
+<img width="933" height="396" alt="Screenshot 2025-07-22 at 10 38 54 pm" src="https://github.com/user-attachments/assets/013fa9e3-16a0-4594-80a5-4a03ef7c0f5c" />
+
+chnage in file in github repository
+
+<img width="1440" height="755" alt="Screenshot 2025-07-22 at 4 43 18 pm" src="https://github.com/user-attachments/assets/308e310e-0ad7-4cf4-9563-cf7f0667b755" />
+
+
+
+
+### enter some information on webhooks
+
+
+<img width="754" height="389" alt="Screenshot 2025-07-22 at 4 20 56 pm" src="https://github.com/user-attachments/assets/1915068a-d7f7-4ee9-81ba-594dda85a57d" />
 
 
 
